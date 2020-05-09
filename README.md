@@ -375,3 +375,4 @@ If you are a developer, you may also be able to contribute to some of these proj
 ## Contribution
 Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
 
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
